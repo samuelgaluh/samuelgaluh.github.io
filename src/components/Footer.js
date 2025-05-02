@@ -44,7 +44,7 @@ const Footer = () => {
     <FooterContainer>
       <FooterContent>
         <SocialLinks>
-          <SocialIcon href="https://github.com/SamuelGaluh/" target="_blank" rel="noopener noreferrer">
+          <SocialIcon href="https://github.com/samuelgaluh/" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </SocialIcon>
           <SocialIcon href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
@@ -52,9 +52,6 @@ const Footer = () => {
           </SocialIcon>
           <SocialIcon href="https://instagram.com/ssamga_/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
-          </SocialIcon>
-          <SocialIcon href="mailto:samuelgaluhdiaspramudya@gmail.com" target="_blank" rel="noopener noreferrer">
-            <FaEnvelope />
           </SocialIcon>
         </SocialLinks>
         <Copyright>
