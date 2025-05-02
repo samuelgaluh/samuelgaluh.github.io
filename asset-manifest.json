@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.70e58423.js",
+    "main.js": "/static/js/main.6022db64.js",
     "static/js/453.b3b0d536.chunk.js": "/static/js/453.b3b0d536.chunk.js",
     "static/media/hero.JPG": "/static/media/hero.e61f6ff11e47f0ef57bd.JPG",
     "static/media/sertifikat-rjs.jpg": "/static/media/sertifikat-rjs.187654f9e524ab1595be.jpg",
@@ -9,13 +9,14 @@
     "static/media/sertifikat-js.jpg": "/static/media/sertifikat-js.9382a7488425081838d3.jpg",
     "static/media/sertifikat-ai.jpg": "/static/media/sertifikat-ai.ef1e610fdab790b8a9e7.jpg",
     "static/media/sertifikat-pw.jpg": "/static/media/sertifikat-pw.7b465ecd2cbf2a6210cb.jpg",
+    "static/media/web-porto.jpg": "/static/media/web-porto.a03f824dfd7a2970be7a.jpg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.70e58423.js.map": "/static/js/main.70e58423.js.map",
+    "main.6022db64.js.map": "/static/js/main.6022db64.js.map",
     "453.b3b0d536.chunk.js.map": "/static/js/453.b3b0d536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.70e58423.js"
+    "static/js/main.6022db64.js"
   ]
 }
