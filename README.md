@@ -1,1 +1,0 @@
-# samuelgaluh.github.io
